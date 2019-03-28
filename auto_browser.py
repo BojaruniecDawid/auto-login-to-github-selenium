@@ -1,4 +1,4 @@
-# automatization process to  sign in to github .
+# automation process to  sign in to github .
 
 from selenium import webdriver
 
